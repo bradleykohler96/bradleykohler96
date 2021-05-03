@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm Brad, I like to work on many different/unique software/hardware projects.
 
-- 🔭 I’m currently working on: state estimation filters and probabilistic models
-- 🌱 I’m currently learning: probabilistic models and other Bayesian processes
+- 🔭 I’m currently working on: state estimation and probabilistic models
+- 🌱 I’m currently learning: factor graphs
 - 👯 I’m looking to collaborate on: fun Python projects!
 - 🤔 I’m looking for help with: buying a house 😂
 - 💬 Ask me about: anything!
