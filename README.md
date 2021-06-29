@@ -20,6 +20,6 @@ I'm Brad, I like to work on many different/unique software/hardware projects.
 - 🔭 I’m currently working on: state estimation and probabilistic models
 - 🌱 I’m currently learning: factor graphs
 - 👯 I’m looking to collaborate on: fun Python projects!
-- 🤔 I’m looking for help with: buying a house 😂
+- 🤔 I’m looking for help with: sliding window filters in GTSAM
 - 💬 Ask me about: anything!
-- 📫 How to reach me: studentbrad.github@gmail.com
+- 📫 How to reach me: bradleykohler96@gmail.com
