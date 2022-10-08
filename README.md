@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm Brad, I like to work on many different/unique software/hardware projects.
 
-- 🔭 I’m currently working on: state estimation and probabilistic models
-- 🌱 I’m currently learning: factor graphs
+- 🔭 I’m currently working on: Wireless communications
+- 🌱 I’m currently learning: L1, L2, L3 protocols for LTE
 - 👯 I’m looking to collaborate on: fun Python projects!
-- 🤔 I’m looking for help with: sliding window filters in GTSAM
+- 🤔 I’m looking for help with: Nothing ATM!
 - 💬 Ask me about: anything!
 - 📫 How to reach me: bradleykohler96@gmail.com
