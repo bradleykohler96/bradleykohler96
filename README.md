@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Brad, I like to work on many different/unique software/hardware projects.
 
 - 🔭 I’m currently working on: Wireless communications
-- 🌱 I’m currently learning: L1, L2, L3 protocols for LTE
+- 🌱 I’m currently learning: Zigbee and Thread Protocols
 - 👯 I’m looking to collaborate on: Fun Python projects!
 - 🤔 I’m looking for help with: Nothing ATM!
 - 💬 Ask me about: Anything!
